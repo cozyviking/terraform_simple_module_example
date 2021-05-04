@@ -5,5 +5,5 @@ variable "main_region" {
 
 variable "instance_type" {
   type    = string
-  default = "tc.micro"
+  default = "t2.micro"
 }
